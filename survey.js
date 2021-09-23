@@ -16,6 +16,7 @@ rl.question('What vehicle do you prefer? boat, car, plane, drone, even horse ', 
 
 });
 
+console.log("testing")
 
 
 
